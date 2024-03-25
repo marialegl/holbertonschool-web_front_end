@@ -143,7 +143,7 @@ a:active {
     margin: var(--section-tagline-margin);
 }
 .section-hero {
-    background-size: 20rem auto;
+    background-size: 90rem auto;
 }
 .section-hero .section-title {
     margin-bottom: 5rem;
